@@ -22,6 +22,7 @@ A collection of reproducible R pipelines for analyzing omics data, built with th
 - **AI Commentary** (RNA-seq/Proteomics): Optional LLM-generated figure interpretations
 - **Auto-install packages**: Prompts to install missing packages on first run
 
+
 ## Directory Structure
 
 ```
